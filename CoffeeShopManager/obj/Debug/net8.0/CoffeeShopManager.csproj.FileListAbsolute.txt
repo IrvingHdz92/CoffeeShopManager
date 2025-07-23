@@ -1,0 +1,15 @@
+C:\Users\irvin\OneDrive\Documentos\Documents\Irving\Courses\Study\Proyecto\CoffeeShopManager\CoffeeShopManager\bin\Debug\net8.0\CoffeeShopManager.exe
+C:\Users\irvin\OneDrive\Documentos\Documents\Irving\Courses\Study\Proyecto\CoffeeShopManager\CoffeeShopManager\bin\Debug\net8.0\CoffeeShopManager.deps.json
+C:\Users\irvin\OneDrive\Documentos\Documents\Irving\Courses\Study\Proyecto\CoffeeShopManager\CoffeeShopManager\bin\Debug\net8.0\CoffeeShopManager.runtimeconfig.json
+C:\Users\irvin\OneDrive\Documentos\Documents\Irving\Courses\Study\Proyecto\CoffeeShopManager\CoffeeShopManager\bin\Debug\net8.0\CoffeeShopManager.dll
+C:\Users\irvin\OneDrive\Documentos\Documents\Irving\Courses\Study\Proyecto\CoffeeShopManager\CoffeeShopManager\bin\Debug\net8.0\CoffeeShopManager.pdb
+C:\Users\irvin\OneDrive\Documentos\Documents\Irving\Courses\Study\Proyecto\CoffeeShopManager\CoffeeShopManager\obj\Debug\net8.0\CoffeeShopManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irvin\OneDrive\Documentos\Documents\Irving\Courses\Study\Proyecto\CoffeeShopManager\CoffeeShopManager\obj\Debug\net8.0\CoffeeShopManager.AssemblyInfoInputs.cache
+C:\Users\irvin\OneDrive\Documentos\Documents\Irving\Courses\Study\Proyecto\CoffeeShopManager\CoffeeShopManager\obj\Debug\net8.0\CoffeeShopManager.AssemblyInfo.cs
+C:\Users\irvin\OneDrive\Documentos\Documents\Irving\Courses\Study\Proyecto\CoffeeShopManager\CoffeeShopManager\obj\Debug\net8.0\CoffeeShopManager.csproj.CoreCompileInputs.cache
+C:\Users\irvin\OneDrive\Documentos\Documents\Irving\Courses\Study\Proyecto\CoffeeShopManager\CoffeeShopManager\obj\Debug\net8.0\CoffeeShopManager.sourcelink.json
+C:\Users\irvin\OneDrive\Documentos\Documents\Irving\Courses\Study\Proyecto\CoffeeShopManager\CoffeeShopManager\obj\Debug\net8.0\CoffeeShopManager.dll
+C:\Users\irvin\OneDrive\Documentos\Documents\Irving\Courses\Study\Proyecto\CoffeeShopManager\CoffeeShopManager\obj\Debug\net8.0\refint\CoffeeShopManager.dll
+C:\Users\irvin\OneDrive\Documentos\Documents\Irving\Courses\Study\Proyecto\CoffeeShopManager\CoffeeShopManager\obj\Debug\net8.0\CoffeeShopManager.pdb
+C:\Users\irvin\OneDrive\Documentos\Documents\Irving\Courses\Study\Proyecto\CoffeeShopManager\CoffeeShopManager\obj\Debug\net8.0\CoffeeShopManager.genruntimeconfig.cache
+C:\Users\irvin\OneDrive\Documentos\Documents\Irving\Courses\Study\Proyecto\CoffeeShopManager\CoffeeShopManager\obj\Debug\net8.0\ref\CoffeeShopManager.dll
