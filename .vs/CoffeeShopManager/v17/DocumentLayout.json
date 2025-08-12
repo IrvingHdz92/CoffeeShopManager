@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\irvin\\OneDrive\\Documentos\\Documents\\Irving\\Courses\\Study\\Proyecto\\CoffeeShopManager\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4AD90473-5796-4DB9-A9F7-B52549B048A4}|CoffeeShopManager\\CoffeeShopManager.csproj|c:\\users\\irvin\\onedrive\\documentos\\documents\\irving\\courses\\study\\proyecto\\coffeeshopmanager\\coffeeshopmanager\\coffeeshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD90473-5796-4DB9-A9F7-B52549B048A4}|CoffeeShopManager\\CoffeeShopManager.csproj|solutionrelative:coffeeshopmanager\\coffeeshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD90473-5796-4DB9-A9F7-B52549B048A4}|CoffeeShopManager\\CoffeeShopManager.csproj|c:\\users\\irvin\\onedrive\\documentos\\documents\\irving\\courses\\study\\proyecto\\coffeeshopmanager\\coffeeshopmanager\\coffeemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD90473-5796-4DB9-A9F7-B52549B048A4}|CoffeeShopManager\\CoffeeShopManager.csproj|solutionrelative:coffeeshopmanager\\coffeemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD90473-5796-4DB9-A9F7-B52549B048A4}|CoffeeShopManager\\CoffeeShopManager.csproj|c:\\users\\irvin\\onedrive\\documentos\\documents\\irving\\courses\\study\\proyecto\\coffeeshopmanager\\coffeeshopmanager\\interfaces\\icoffeemaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD90473-5796-4DB9-A9F7-B52549B048A4}|CoffeeShopManager\\CoffeeShopManager.csproj|solutionrelative:coffeeshopmanager\\interfaces\\icoffeemaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4AD90473-5796-4DB9-A9F7-B52549B048A4}|CoffeeShopManager\\CoffeeShopManager.csproj|c:\\users\\irvin\\onedrive\\documentos\\documents\\irving\\courses\\study\\proyecto\\coffeeshopmanager\\coffeeshopmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AD90473-5796-4DB9-A9F7-B52549B048A4}|CoffeeShopManager\\CoffeeShopManager.csproj|solutionrelative:coffeeshopmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -17,12 +29,51 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICoffeeMaker.cs",
+              "DocumentMoniker": "C:\\Users\\irvin\\OneDrive\\Documentos\\Documents\\Irving\\Courses\\Study\\Proyecto\\CoffeeShopManager\\CoffeeShopManager\\Interfaces\\ICoffeeMaker.cs",
+              "RelativeDocumentMoniker": "CoffeeShopManager\\Interfaces\\ICoffeeMaker.cs",
+              "ToolTip": "C:\\Users\\irvin\\OneDrive\\Documentos\\Documents\\Irving\\Courses\\Study\\Proyecto\\CoffeeShopManager\\CoffeeShopManager\\Interfaces\\ICoffeeMaker.cs",
+              "RelativeToolTip": "CoffeeShopManager\\Interfaces\\ICoffeeMaker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T02:38:01.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoffeeShop.cs",
+              "DocumentMoniker": "C:\\Users\\irvin\\OneDrive\\Documentos\\Documents\\Irving\\Courses\\Study\\Proyecto\\CoffeeShopManager\\CoffeeShopManager\\CoffeeShop.cs",
+              "RelativeDocumentMoniker": "CoffeeShopManager\\CoffeeShop.cs",
+              "ToolTip": "C:\\Users\\irvin\\OneDrive\\Documentos\\Documents\\Irving\\Courses\\Study\\Proyecto\\CoffeeShopManager\\CoffeeShopManager\\CoffeeShop.cs",
+              "RelativeToolTip": "CoffeeShopManager\\CoffeeShop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T02:37:09.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoffeeMachine.cs",
+              "DocumentMoniker": "C:\\Users\\irvin\\OneDrive\\Documentos\\Documents\\Irving\\Courses\\Study\\Proyecto\\CoffeeShopManager\\CoffeeShopManager\\CoffeeMachine.cs",
+              "RelativeDocumentMoniker": "CoffeeShopManager\\CoffeeMachine.cs",
+              "ToolTip": "C:\\Users\\irvin\\OneDrive\\Documentos\\Documents\\Irving\\Courses\\Study\\Proyecto\\CoffeeShopManager\\CoffeeShopManager\\CoffeeMachine.cs",
+              "RelativeToolTip": "CoffeeShopManager\\CoffeeMachine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T02:36:23.496Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\irvin\\OneDrive\\Documentos\\Documents\\Irving\\Courses\\Study\\Proyecto\\CoffeeShopManager\\CoffeeShopManager\\Program.cs",
               "RelativeDocumentMoniker": "CoffeeShopManager\\Program.cs",
